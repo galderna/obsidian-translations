@@ -747,29 +747,29 @@
 			"label-sort-by-name-z-to-a": "Etiketaren izena (Z-tik A-ra)",
 			"label-sort-by-frequency-high-to-low": "Maiztasuna (gorenetik baxuenera)",
 			"label-sort-by-frequency-low-to-high": "Maiztasuna (baxuenetik gorenera)",
-			"action-show-nested-tags": "Erakutsi Show nested tags"
+			"action-show-nested-tags": "Erakutsi etiketa habiaratuak"
 		},
 		"page-preview": {
-			"name": "Page preview",
-			"desc": "Preview a note when hovering an internal link. Ctrl/Cmd + hover in editor mode.",
-			"label-empty-note": "\"{{linktext}}\" is not created yet. Click to create.",
-			"label-source-editor": "Editor",
-			"label-source-preview": "Preview",
-			"label-source-search": "Search, Backlinks, and Outgoing links",
-			"label-require-mod": "Require {{key}} to trigger page preview on hover"
+			"name": "Orrialdearen aurrebista",
+			"desc": "Aurrebistaratu oharra bere barne-estekaren gainetik igarotzean kurtsorea. Edizio moduan, Ctrl/Cmd + kurtsorea gainetik igaro.",
+			"label-empty-note": "\"{{linktext}}\" sortu gabe dago oraindik. Klikatu sortzeko.",
+			"label-source-editor": "Editores",
+			"label-source-preview": "Aurrebista,
+			"label-source-search": "Bilaketa, atzeraestekak eta kanporanzko estekak",
+			"label-require-mod": "Eskatu {{key}} orrialdearen aurrebista abiarazteko kurtsorea gainetik igarotzean"
 		},
 		"starred": {
-			"name": "Starred",
-			"desc": "Star frequently used files and searches.",
-			"action-show": "Show starred pane",
-			"action-toggle": "Star/unstar current file",
-			"action-toggle-search": "Star/unstar current search",
-			"action-star": "Star",
-			"action-unstar": "Unstar",
-			"menu-opt-remove": "Remove",
-			"msg-successfully-starred": "Successfully starred {{type}} \"{{title}}\".",
-			"msg-removed-starred": "Removed starred {{type}} \"{{title}}\".",
-			"msg-cannot-find-path": "Cannot find file at \"{{path}}\"."
+			"name": "Izartua",
+			"desc": "Izartu maiz erabiltzen diren fitxategiak eta bilaketak.",
+			"action-show": "Erakutsi izartuen panela",
+			"action-toggle": "Izartu/izargabetu uneko fitxategia",
+			"action-toggle-search": "Izartu/izargabetu uneko bilaketa",
+			"action-star": "Izartu",
+			"action-unstar": "Izargabetu",
+			"menu-opt-remove": "Kendu",
+			"msg-successfully-starred": "{{type}} \"{{title}}\" arrakastaz izartu egin da.",
+			"msg-removed-starred": "{{type}} \"{{title}}\" izartua kendu egin da.",
+			"msg-cannot-find-path": "Ezin da fitxategia aurkitu \"{{path}}\" helbidean."
 		},
 		"custom-css": {
 			"name": "Custom CSS",
