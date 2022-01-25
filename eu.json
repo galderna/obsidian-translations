@@ -1067,20 +1067,20 @@
 			"button-add-more-sites": "Gune gehiago erosi"
 		},
 		"workspaces": {
-			"name": "Workspaces",
-			"desc": "Save and load workspace layout.",
-			"action-load": "Load workspace",
-			"action-manage-workspaces": "Manage workspaces",
-			"action-save-and-load": "Save and load another workspace",
-			"placeholder-save-current-workspace-as": "Save current workspace as...",
-			"button-save": "Save",
-			"button-load": "Load",
-			"tooltip-delete-workspace": "Delete workspace",
-			"msg-delete-workspace-success": "Successfully deleted workspace.",
-			"msg-please-enter-name": "Please enter a name for the new workspace.",
-			"msg-save-workspace-success": "Successfully saved workspace.",
-			"label-no-workspaces-found": "No saved workspace found.",
-			"placeholder-type-to-search-workspaces": "Type workspace name..."
+			"name": "Lantokiak",
+			"desc": "Gorde eta kargatu lantokiaren diseinua.",
+			"action-load": "Kargatu lantokia",
+			"action-manage-workspaces": "Kudeatu lantokiak",
+			"action-save-and-load": "Gorde eta kargatu beste lantoki bat",
+			"placeholder-save-current-workspace-as": "Gorde uneko lantokia honela...",
+			"button-save": "Gorde",
+			"button-load": "Kargatu",
+			"tooltip-delete-workspace": "Ezabatu lantokia",
+			"msg-delete-workspace-success": "Lantokia behar-bezala ezabatu da.",
+			"msg-please-enter-name": "Mesedez, idatzi izen bat lantoki berrirako.",
+			"msg-save-workspace-success": "Lantokia behar-bezala gorde da.",
+			"label-no-workspaces-found": "Ez da gordetako lantokirik aurkitu.",
+			"placeholder-type-to-search-workspaces": "Tekleatu lantokiaren izena..."
 		},
 		"sync": {
 			"name": "Sync",
@@ -1252,21 +1252,21 @@
 		}
 	},
 	"nouns": {
-		"word-with-count": "{{count}} hitz",
+		"word-with-count": "hitz {{count}}",
 		"word-with-count_plural": "{{count}} hitz",
-		"character-with-count": "{{count}} karaktere",
+		"character-with-count": "karaktere {{count}}",
 		"character-with-count_plural": "{{count}} karaktere",
-		"link-with-count": "{{count}} esteka",
+		"link-with-count": "esteka {{count}}",
 		"link-with-count_plural": "{{count}} esteka",
-		"file-with-count": "{{count}} fitxategi",
+		"file-with-count": "fitxategi {{count}}",
 		"file-with-count_plural": "{{count}} fitxategi",
-		"folder-with-count": "{{count}} folder",
+		"folder-with-count": "folder {{count}}",
 		"folder-with-count_plural": "{{count}} folders",
-		"backlink-with-count": "{{count}} backlink",
-		"backlink-with-count_plural": "{{count}} backlinks",
-		"site-with-count": "{{count}} gune",
+		"backlink-with-count": "atzeraesteka {{count}}",
+		"backlink-with-count_plural": "{{count}} atzeraesteka",
+		"site-with-count": "gune {{count}} ",
 		"site-with-count_plural": "{{count}} gune",
-		"plugin-with-count": "{{count}} plugin",
-		"plugin-with-count_plural": "{{count}} plugins"
+		"plugin-with-count": "plugin {{count}}",
+		"plugin-with-count_plural": "{{count}} plugin"
 	}
 }
